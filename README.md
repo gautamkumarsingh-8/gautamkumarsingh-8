@@ -18,7 +18,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="150" height="140"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="150" height="140"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="150" height="140"/> </a>
 <a href="![image](https://github.com/gautamkumarsingh-8/gautamkumarsingh-8/assets/127926464/064de38e-7cca-4bd1-9ac8-eed139ebeb84)
-"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="150" height="140"/> </a>
+"> <img src="![image](https://github.com/gautamkumarsingh-8/gautamkumarsingh-8/assets/127926464/54675f65-1569-46da-b904-cd29ea061436)
+" alt="bootstrap" width="150" height="140"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="150" height="140"/> </a> 
   </p>
   <h3 align="left">Support:</h3>
