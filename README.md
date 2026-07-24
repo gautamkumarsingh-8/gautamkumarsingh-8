@@ -1,31 +1,44 @@
-<h1 align="center">Hi 👋, I'm Gautam Kumar singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- ⚡ Fun fact **I am Funny😅**
+<div align="center">
 
-<h3 align="left">Connect with me: </h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:0F172A,70:7C3AED,100:06B6D4&height=300&section=header&text=GAUTAM%20KUMAR%20SINGH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20•%20React.js%20•%20JavaScript%20•%20Future%20Full%20Stack%20Engineer&descAlignY=54&descSize=17&descAlign=50"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="150" height="140"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="150" height="140"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="150" height="130"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="150" height="140"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"              width="150" height="140"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="150" height="140"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/256/5968/5968672.png" alt="bootstrap" width="150" height="140"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt= "gitwidth="150" height="140"/> </a> 
-  </p>
-  <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=23&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Gautam+Kumar+Singh;Crafting+Interfaces+with+React.js+%E2%9A%9B%EF%B8%8F;Redux+Toolkit+%2B+Tailwind+%2B+Clean+Code;Currently+Leveling+Up+to+Full+Stack+%F0%9F%9A%80;Always+Building.+Always+Learning." alt="Typing SVG" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamkumarsingh-8&show_icons=true&locale=en" alt="gautamkumarsingh-8" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamkumarsingh-8&" alt="gautamkumarsingh-8" /></p>
+<img src="https://img.shields.io/badge/📍_BIHAR,_INDIA-09090B?style=for-the-badge&labelColor=09090B&color=06B6D4"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_OPPORTUNITIES-09090B?style=for-the-badge&labelColor=09090B&color=7C3AED"/>
 
+<br/><br/>
 
+<a href="https://www.linkedin.com/in/gautam-kumar-singh-34b281235/"><img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=09090B"/></a>
+<a href="https://www.instagram.com/__gautam_singh_43/"><img src="https://img.shields.io/badge/Instagram-09090B?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=09090B"/></a>
+<a href="gautamsingh802114@gamil.com"><img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=09090B"/></a>
+<a href="https://portfolio-xg.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-09090B?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=09090B"/></a>
 
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:09090B&height=3&width=1000"/>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="58%" valign="top">
+
+<h2>🪞 About Me</h2>
+
+```ts
+const gautam: Developer = {
+  role      : "Front-End Developer",
+  core      : ["JavaScript", "React.js", "Redux Toolkit"],
+  building  : "Modern, Responsive Web Applications",
+  learning  : "Full Stack Development",
+  mindset   : "Clean Code • Performance • Scalability",
+  goal      : "Become a World-Class Software Engineer",
+};
