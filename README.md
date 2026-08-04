@@ -66,16 +66,3 @@ const gautam: Developer = {
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gautamkumarsingh-8&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gautamkumarsingh-8/gautamkumarsingh-8/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
