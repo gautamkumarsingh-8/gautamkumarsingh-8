@@ -70,12 +70,12 @@ const gautam: Developer = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gautamkumarsingh-8&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gautamkumarsingh-8&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 </p>
----
 
-## 🏆 GitHub Trophies
+
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gautamkumarsingh-8&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://raw.githubusercontent.com/gautamkumarsingh-8/gautamkumarsingh-8/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
