@@ -31,7 +31,7 @@
 <tr>
 <td width="58%" valign="top">
 
-<h2>🪞 About Me</h2>
+## 🪞 About Me
 
 ```ts
 const gautam: Developer = {
@@ -42,16 +42,19 @@ const gautam: Developer = {
   mindset   : "Clean Code • Performance • Scalability",
   goal      : "Become a World-Class Software Engineer",
 };
+```
+
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautamkumarsingh-8&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamkumarsingh-8&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gautamkumarsingh-8&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=gautamkumarsingh-8&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkumarsingh-8&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkumarsingh-8&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -59,9 +62,16 @@ const gautam: Developer = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gautamkumarsingh-8&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gautamkumarsingh-8&theme=tokyo-night&hide_border=true"/>
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gautamkumarsingh-8&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophies
